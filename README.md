@@ -1,2 +1,2 @@
-# Preset
-My Preset
+# Customizations
+Frequently used custom presets.
