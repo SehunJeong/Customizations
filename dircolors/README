@@ -1,0 +1,3 @@
+Put 
+eval `dircolors /path/to/dircolorsdb`
+in ~/.profile
